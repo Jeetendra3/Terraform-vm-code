@@ -1,0 +1,1 @@
+variable "st_name" {}
